@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "KZ80-MSXMEM-rescue")(type "Legacy")(uri "/Users/kuninet/git/KZ80-MSXMEM/KiCAD/KZ80-MSXMEM-rescue.lib")(options "")(descr ""))
+)
