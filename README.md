@@ -6,5 +6,5 @@
 
 ## 必要な電子部品等...
 
-* 74HCT32 OR GATE
-* 74HCT05 NOT (OPENドレイン)
+* 74LS32 OR GATE
+* 74LS05 NOT (OPENドレイン)
